@@ -1,6 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=LilMortal&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 # 💫 About Me:
 Hi, I’m LilMortal— a passionate and curious developer who loves building clean, intuitive, and user-friendly digital experiences. I specialize in creating modern web applications that blend aesthetics with performance, whether it's a dynamic frontend, a responsive UI, or a creative twist on classic apps.<br><br>I enjoy turning ideas into working products, exploring both code and design to make technology more engaging and accessible. My projects often focus on interactivity, simplicity, and delivering a smooth user experience — whether it's a game, utility, or full-stack solution.
 
