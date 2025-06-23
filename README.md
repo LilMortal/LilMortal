@@ -173,13 +173,6 @@ I'm a **full-stack developer** dedicated to creating **intuitive**, **performant
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=LilMortal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 </div>
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=LilMortal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-</div>
-
 ---
 
 ## 🏆 **Achievements & Recognition**
@@ -191,6 +184,7 @@ I'm a **full-stack developer** dedicated to creating **intuitive**, **performant
 </div>
 
 **🎖️ Notable Achievements:**
+
 - 🚀 **Performance Optimizer** - Improved app load times by 60% on average
 - 🏗️ **Architecture Designer** - Led migration to microservices for 3 major projects
 - 📱 **Cross-Platform Developer** - Built applications for Web, iOS, Android, and Desktop
@@ -309,7 +303,6 @@ Other        1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-[![Profile Views](https://komarev.com/github-profile-views-counter/embed-badge.svg?username=LilMortal&style=for-the-badge&color=00D9FF)](https://visitcount.itsvg.in)
 
 <div align="center">
 
