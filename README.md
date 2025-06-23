@@ -278,11 +278,6 @@ I'm always excited to discuss new projects, innovative ideas, or opportunities t
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lilmortal)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lilmortal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lilmortal.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@lilmortal.dev)
-
 **📧 Drop me a line • 🌐 Check out my work • 💼 Let's connect professionally • 🐦 Follow my journey**
 
 </div>
