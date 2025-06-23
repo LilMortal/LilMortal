@@ -255,14 +255,14 @@ I'm a **full-stack developer** dedicated to creating **intuitive**, **performant
 <div align="center">
 
 **🎯 Currently Pursuing:**
-- 🚀 Advanced React Native Development
-- ☁️ AWS Solutions Architect Associate
-- 🤖 TensorFlow Developer Certificate
+ 🚀 Advanced React Native Development
+ ☁️ AWS Solutions Architect Associate
+ 🤖 TensorFlow Developer Certificate
 
 **🔮 Next Learning Goals:**
-- 🎮 Unity Game Development Certification
-- 📱 Flutter Advanced Development
-- 🔐 Certified Ethical Hacker (CEH)
+ 🎮 Unity Game Development Certification
+ 📱 Flutter Advanced Development
+ 🔐 Certified Ethical Hacker (CEH)
 
 </div>
 
