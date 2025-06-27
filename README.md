@@ -265,7 +265,6 @@ I'm a **full-stack developer** dedicated to creating **intuitive**, **performant
  🔐 Certified Ethical Hacker (CEH)
 
 </div>
-
 ---
 
 ## 📫 **Let's Connect & Collaborate**
