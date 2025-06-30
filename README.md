@@ -306,7 +306,8 @@ Other        1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
 </div>
 
----
+--
+
 
 <div align="center">
 <sub>💡 <strong>Open to exciting opportunities and collaborations</strong> 💡</sub>
